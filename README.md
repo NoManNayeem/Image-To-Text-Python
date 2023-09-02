@@ -14,11 +14,9 @@
 
 ### How it Works
 
-1. **Installation:** To use the script, you need to clone the GitHub repository and install the required Python packages listed in the `requirements.txt` file.
+1. **Installation:** To use the script, you need to clone the GitHub repository and install the required Python packages `Pillow` and `pytesseract` file.
 
-2. **Usage:** After installation, you can run the `image_to_text.py` script and specify the image path as an argument. Optionally, you can specify the language for OCR. The script will process the image and display the extracted text in the terminal.
-
-3. **Customization:** Users can customize the script according to their specific OCR needs, including choosing the language, modifying the Tesseract configuration, or integrating it into other projects.
+2. **Customization:** Users can customize the script according to their specific OCR needs, including choosing the language, modifying the Tesseract configuration, or integrating it into other projects.
 
 ### Use Cases
 
@@ -43,6 +41,6 @@ These dependencies can be easily installed using `pip`.
 
 ### License
 
-The project is open-source and is licensed under the MIT License, allowing users to modify and distribute the code as needed. You can find the full license details in the `LICENSE` file in the project directory.
+The project is open-source allowing users to modify and distribute the code as needed.
 
 **Image to Text Python** simplifies the task of extracting text from images, making it a valuable tool for a wide range of applications, from data entry automation to language translation and accessibility enhancement. Whether you are a developer or a non-technical user, this project provides an efficient and accessible way to harness the power of OCR technology.
