@@ -1,0 +1,5 @@
+language_model_penalty_non_dict_word 0.1
+language_model_penalty_non_freq_dict_word 0.2
+language_model_penalty_dict_non_freq_word 0.3
+textord_force_make_prop_words
+unlv_tilde_crunching
